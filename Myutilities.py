@@ -1,5 +1,5 @@
 """
-Name:Jessy Ashcraft
+Name:Aaron Ashcraft
 Date:9/18/2019
 Program:die roller
 """
@@ -18,7 +18,3 @@ def ClearScreen():
         os.system('cls')
     else:
         os.system('clear')
-#while (True):
-    #t = int(input("enter the amount of times to roll.: "))
-    #s = int(input("enter the amount of sides.: "))
-    #print(DieRoller(t,s))
