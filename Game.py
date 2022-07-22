@@ -54,7 +54,7 @@ def Combat(player, enemy):
                 enemy["Health"] = 0
                 
             else:
-                print("oops sorry dumbass.")
+                print("oops sorry wrong command")
             
         
         PlayerDamage = PlayerAttackRoll + PlayerAttackBonus - EnemyDefenseBonus - 10
