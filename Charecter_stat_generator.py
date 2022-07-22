@@ -1,5 +1,5 @@
 """
-Name: Jessy Ashcraft
+Name: Aaron Ashcraft
 Date: 10/23/2019
 Programm: Player stats
 """
